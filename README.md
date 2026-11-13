@@ -1,2 +1,2 @@
-# ExamenProgramacionRedes
+# inventario-red
 Práctica del examen :)
