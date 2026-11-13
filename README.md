@@ -1,2 +1,2 @@
 # ExamenProgramacionRedes
-Práctica en equipo (lo hice sola)
+Práctica del examen :)
